@@ -1,10 +1,10 @@
 # Dependencies
 markdown:         redcarpet
-highlighter:      pygments
+#highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
+#relative_permalinks: true
 
 # Setup
 title:            Hyde
@@ -17,10 +17,17 @@ author:
   name:           'Mark Otto'
   url:            https://twitter.com/mdo
 
-paginate:         5
+# plugins:
+plugins: [jekyll-paginate]
+paginate: 5
+painate_path: "page:num"
+
+redcarpet:
+  extensions: ["no_intra_emphasis", "tables", "autolink", "strikethrough", "with_toc_data"]
 
 # Custom vars
 version:          2.1.0
 
 github:
   repo:           https://github.com/poole/hyde
+
