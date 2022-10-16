@@ -47,11 +47,8 @@ JAVA BACKEND 3년차 개발자로,
 ##### <span style="color:dodgerblue"> java 1.8 / spring / tomcat / React / postgresql / Aws ec2, efs, s3</span>
 
 >* 클라이언트 요청 작업 배정 및, 작업 관리 로직 구현.
-
 >* 로그인 및 토큰 관리.
-
 >* EC2 서버 배포 및 S3 스토리지 업로드.
-
 >* 메인 화면 및 작업 관리 화면 UI 구현.
 
 
@@ -62,9 +59,7 @@ JAVA BACKEND 3년차 개발자로,
 ##### <span style="color:dodgerblue"> java 1.8 / spring / tomcat / postgresql / ffmpeg / mediainfo / Aws ec2, efs, s3</span>
 
 > * FTP 전송 및 전송 속도 제어 기능.
-
 > * 작업 요청 시, 작업 쓰레드 배정 및 콜백.
-
 > * S3 스토리지의 영상 및 이미지 파일을 다운로드 없이 mediainfo / ffmpeg 처리.
 
   <br><br>
@@ -74,19 +69,12 @@ JAVA BACKEND 3년차 개발자로,
 
 > * 게시판 답글 / 댓글 등 작성시 Mobile / PC
   토픽 메시지 및 모바일 알림 메시지 전송 및 실패 시, 자동 재시도 처리.
-
 > * 방송 큐시트 기사 및 자막 매칭 기능 추가.
-
 > * 로그인 시, 세션 중복으로 인한 버그 개선.
-
 > * 웹 서버의 연합 기사 수신 파일 관리 및 에러 알림 기능 추가.
-
 > * 시청률 연계 FTP 서버 파일 장애 개선 및 에러 원인 분석.
-
 > * log4j 이슈 사항 처리.
-
-> * 엑셀 파일 다운로드 및 특정 기간 데이터 조회 시 속도 개선. 
-
+> * 엑셀 파일 다운로드 및 특정 기간 데이터 조회 시 속도 개선.
 > * 오프라인 큐시트 등록 시, 온라인 등록 기능 추가. 
 
   <br><br>
@@ -96,9 +84,7 @@ JAVA BACKEND 3년차 개발자로,
 
 
 > * 영상 작업 관리 active mq - tomcat 장애 개선.
-
 > * DB 작업 로그 인덱스 개선.
-
 > * 작업 배정 시, 작업 작업 요청 기록과 작업 배정을 위한 목록이 일치하지 않는 에러 개선.
 
 <br><br>
@@ -107,9 +93,7 @@ JAVA BACKEND 3년차 개발자로,
 ##### <span style="color:dodgerblue"> java 1.8 / spring / jpa / tomcat / oracle </span>
 
 > * 워크 플로우 및 테이블 인덱스, 코드 환경 설정 및 설정 값 개선.
-
 > * API 사용 기능 문서화 작업 및 정리.
-
 > * 기존 코드 리팩토링
 
 <br>
