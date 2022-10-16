@@ -31,6 +31,7 @@ JAVA BACKEND 3년차 개발자로,
 
 
 <br>
+
 #### 프로젝트
 
 * Agent 관리 Manager 개발
@@ -41,8 +42,9 @@ JAVA BACKEND 3년차 개발자로,
 * 연합뉴스 에이전트 개선  
 
 <br>
+
 ##### Agent 관리 Manager 개발   /   2022 03 ~ 진행 중  
-#####<span style="color:dodgerblue"> java 1.8 / spring / tomcat / React / postgresql / Aws ec2, efs, s3</span>
+##### <span style="color:dodgerblue"> java 1.8 / spring / tomcat / React / postgresql / Aws ec2, efs, s3</span>
 
 >* 클라이언트 요청 작업 배정 및, 작업 관리 로직 구현.
 
@@ -57,7 +59,7 @@ JAVA BACKEND 3년차 개발자로,
 <br>
 
 ##### Ariel Agent 개발 / 2022 01 ~ 08
-#####<span style="color:dodgerblue"> java 1.8 / spring / tomcat / postgresql / ffmpeg / mediainfo / Aws ec2, efs, s3</span>
+##### <span style="color:dodgerblue"> java 1.8 / spring / tomcat / postgresql / ffmpeg / mediainfo / Aws ec2, efs, s3</span>
 
 > * FTP 전송 및 전송 속도 제어 기능.
 
@@ -68,7 +70,7 @@ JAVA BACKEND 3년차 개발자로,
   <br><br>
 
 ##### MBC 뉴스 보도 정보 시스템 관리 고도화 및 유지보수 / 2021 03 ~ 11
-#####<span style="color:dodgerblue"> java 1.8 / spring / webtob-jeus / oracle </span>
+##### <span style="color:dodgerblue"> java 1.8 / spring / webtob-jeus / oracle </span>
 
 > * 게시판 답글 / 댓글 등 작성시 Mobile / PC
   토픽 메시지 및 모바일 알림 메시지 전송 및 실패 시, 자동 재시도 처리.
@@ -90,7 +92,7 @@ JAVA BACKEND 3년차 개발자로,
   <br><br>
 
 ##### MBC 영상 관리 Archive 프로그램 유지보수 / 21 04 ~ 진행 중
-#####<span style="color:dodgerblue"> java 1.8 / spring / jpa / tomcat / oracle </span>
+##### <span style="color:dodgerblue"> java 1.8 / spring / jpa / tomcat / oracle </span>
 
 
 > * 영상 작업 관리 active mq - tomcat 장애 개선.
@@ -102,7 +104,7 @@ JAVA BACKEND 3년차 개발자로,
 <br><br>
 
 ##### IMARCHIVE 영상 관리 매니저 리팩토링 / 2021.03 ~ 2021.06 
-#####<span style="color:dodgerblue"> java 1.8 / spring / jpa / tomcat / oracle </span>
+##### <span style="color:dodgerblue"> java 1.8 / spring / jpa / tomcat / oracle </span>
 
 > * 워크 플로우 및 테이블 인덱스, 코드 환경 설정 및 설정 값 개선.
 
@@ -113,7 +115,7 @@ JAVA BACKEND 3년차 개발자로,
 <br>
 
 ##### 연합뉴스 에이전트 개선 / 2020 08 ~ 09
-#####<span style="color:dodgerblue"> java 1.8 / spring / tomcat </span>
+##### <span style="color:dodgerblue"> java 1.8 / spring / tomcat </span>
 
 > * 기존 분리 된 파일 수신 기능 통합 및 외신 수신 기능 추가. 
 
