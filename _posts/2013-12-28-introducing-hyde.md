@@ -140,6 +140,6 @@ JAVA BACKEND 3년차 개발자로,
 
 <br>
 
-#### Blog [T story] (https://girinprogram93.tistory.com)
-#### GitHub [Java 프로젝트] (https://github.com/jaemanc/walk)
-#### GitHub [React 프로젝트] (https://github.com/jaemanc/walk-web)
+#### Blog [T story](https://girinprogram93.tistory.com)
+#### GitHub [Java 프로젝트](https://github.com/jaemanc/walk)
+#### GitHub [React 프로젝트](https://github.com/jaemanc/walk-web)
