@@ -6,7 +6,7 @@ title: 소개
 [//]: # (한글? is a brazen two-column [Jekyll]&#40;http://jekyllrb.com&#41; theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole]&#40;http://getpoole.com&#41;, the Jekyll butler.)
 
 [//]: # (### 반갑습니다.  )
-### 코드와 업무를 책임지는 개발자 최재만입니다.   
+### 코드와 업무를 책임지는 개발자가 되겠습니다.
 
 JAVA BACKEND 3년차 개발자로,  
 웹 서비스를 개발 / 배포 / 운영하고 있습니다.
