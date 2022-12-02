@@ -9,8 +9,10 @@ title: 소개
 ### 코드와 업무를 책임지는 개발자가 되겠습니다.
 
 JAVA BACKEND 3년차 개발자로,  
-웹 서비스를 개발 / 배포 / 운영하고 있습니다.
-
+window server / linux / aws ec2 등의 서버 환경에서
+JAVA 와 spring 프레임워크를 사용한
+에이전트 및 웹 서비스 back end 프로젝트와 
+React를 사용한 Front end 프로젝트를 경험했습니다. 
 
 제머나이 소프트라는  
 방송 보도 / 영상 Archive 솔루션을 주력으로 하고 있는
